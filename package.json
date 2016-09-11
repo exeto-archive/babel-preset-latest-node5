@@ -1,0 +1,17 @@
+{
+  "name": "babel-preset-latest-node5",
+  "version": "1.0.0",
+  "description": "Babel preset including es2015+ for Node.js 5",
+  "main": "lib/index.js",
+  "repository": "exeto/babel-preset-latest-node5",
+  "author": "Timofey Dergachev <t@exeto.me> (https://exeto.me/)",
+  "license": "MIT",
+  "files": [
+    "lib"
+  ],
+  "dependencies": {
+    "babel-preset-es2015-node5": "^1.2.0",
+    "babel-preset-es2016": "^6.11.3",
+    "babel-preset-es2017": "^6.14.0"
+  }
+}
